@@ -1,5 +1,6 @@
 ALKER RESOLUSI
 - Konsisten belajar web programing setiap hari.
-- Konsisten untuk membuat web programing minimal seminggu sekali.
-- Konsisten mengerjakan tugas kuliah.
+- Konsisten membuat web programing minimal seminggu sekali.
+- Harus mengerjakan tugas kuliah.
 - Konsisten belajar bahasa inggris lebih keras.
+- Konsisten belajar banyak pemrograman
